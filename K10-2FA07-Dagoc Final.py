@@ -1,4 +1,5 @@
 from datetime import date
+#asks the user for info about the event
 event = input("what is the event title?:")
 event_year = int(input("what year does the event take place?:"))
 event_month = int(input("what month number (1-12) does the event take place?"))
