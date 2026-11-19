@@ -1,3 +1,4 @@
+#asks the user for the data of the event
 event = input("what is the event title?:")
 event_year = input("what year does the event take place?:")
 event_month = input("what month does the event take place?")
